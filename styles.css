@@ -41,6 +41,7 @@ video {
 	right:0;
 	margin: 0 auto;
 	width: 400px;
+	height: 150px;
 	top:3%;
 
 	z-index: 3;
